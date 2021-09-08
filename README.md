@@ -102,3 +102,6 @@ Isabele Pinheiro
 
 #Nota
 No GIT contém o projeto e o mapa mental
+
+[Git - Mapa Mental] https://github.com/mentorisapinheiro/Mapa-mental-Amazon
+[Git - Projeto Automação] https://github.com/mentorisapinheiro/web-front-zup
